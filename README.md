@@ -1,4 +1,7 @@
 # Financial Data Analyzer
+> A Python-based financial analytics project — bridging Finance, Data Analytics, and Data Science.
+
+**Python • Pandas • Matplotlib • Pytest | Financial Analytics • Data Visualization • Business Insights**
 
 #### Video Demo: https://youtu.be/U-0tree0j_o
 
@@ -17,6 +20,28 @@ Data validation is an important part of the application. The program checks whet
 The project also generates a financial chart using Matplotlib. The chart compares monthly revenue and expenses and provides a visual representation of the company's financial performance throughout the year.
 
 Finally, the program generates management insights based on the calculated financial indicators. These insights summarize revenue growth, profitability, expense control, the strongest and weakest months, and the current financial risk level.
+## Key Results
+
+Using the included sample financial dataset, the analyzer produces:
+
+| Metric                 |    Result |
+| ---------------------- | --------: |
+| Total Revenue          | 1,291,000 |
+| Total Expenses         |   993,000 |
+| Net Profit             |   298,000 |
+| Profit Margin          |    23.08% |
+| Revenue Growth         |    70.59% |
+| Financial Health Score |   100/100 |
+
+The project also identifies the strongest and weakest months based on net profit and provides financial risk classification and management insights.
+## Tech Stack
+
+* **Python** — Core programming language
+* **Pandas** — Data loading, cleaning, validation, and analysis
+* **Matplotlib** — Financial data visualization
+* **Pytest** — Automated testing
+* **CSV** — Sample financial data source
+
 
 #### Professional Motivation:
 
